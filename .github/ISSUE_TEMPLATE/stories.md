@@ -1,15 +1,6 @@
 ---
 name: Stories
-about: Describe this issue template's purpose here.
-title: ''
-labels: ''
-assignees: ''
-
----
-
----
-name: User Story
-about: FastDoing  - Story
+about: Create Stories - Issues
 title: ''
 labels: ''
 assignees: ''
